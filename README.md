@@ -1,3 +1,5 @@
+[](prod.jpg)
+
 ## Todo:
 - [x] [Portfolio and blog](https://github.com/bachsofttrick/bachsofttrick.github.io)
 - [ ] [TV Guide API](https://github.com/bachsofttrick/tvguide-go)
