@@ -8,7 +8,10 @@
 Compare performance of two algorithms against several games of Reversi, varying in board size, tree depth, iteration count, using multithreading.
 
 - **[Object Detection and Monitoring Through UAV](https://github.com/bachsofttrick/dronectrl-with-tracking)**\
-[Paper](https://github.com/bachsofttrick/dronectrl-with-tracking/blob/master/paper.pdf)\
+[Paper](https://github.com/bachsofttrick/dronectrl-with-tracking/blob/master/paper.pdf) | 
+[Thesis](https://github.com/bachsofttrick/dronectrl-with-tracking/blob/master/thesis.pdf) | 
+[Test run with Naza Drone](https://youtu.be/x6uBbzRVm_o) |
+[Test run with DM107s](https://youtu.be/x6QGjoSk1t8)\
 Use a custom drone for searching, identifying, and following a
 designated object while transmitting images to any RTSP-compatible
 device.
