@@ -4,7 +4,7 @@
 - **[Homepage](https://github.com/bachsofttrick/bachsofttrick.github.io)**
 
 - **[Reversi: Minimax vs Monte Carlo](https://github.com/bachsofttrick/reversi-ai531/)**\
-[Paper](https://github.com/bachsofttrick/reversi-ai531/blob/master/paper.pdf)\
+[Paper](https://drive.google.com/file/d/1OObj9nI0WlzqSMS5g5tBLYP51jCcF6yJ/view?usp=sharing)\
 Compare performance of two algorithms against several games of Reversi, varying in board size, tree depth, iteration count, using multithreading.
 
 - **[Object Detection and Monitoring Through UAV](https://github.com/bachsofttrick/dronectrl-with-tracking)**\
