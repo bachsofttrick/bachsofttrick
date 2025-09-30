@@ -32,13 +32,13 @@ Built using NodeJS and Google Calendar API.
 A Reverse Proxy built using ExpressJS and express-http-proxy for debugging microservice projects. Nodemon is for developing this app with hot reload.
 
 **COURSE PROJECTS**
-- [Computer Architecture and Assembly Language (CS271)](https://github.com/bachsofttrick/comp-arch-cs271)
+- [Assembly Language](https://github.com/bachsofttrick/comp-arch-cs271)
 
-- [Algorithm Analysis (CS325)](https://github.com/bachsofttrick/algolysis-cs325)
+- [Algorithm Analysis](https://github.com/bachsofttrick/algolysis-cs325)
 
-- [Database Management System (CS540)](https://github.com/bachsofttrick/dbms-cs540)
+- [Database Management System](https://github.com/bachsofttrick/dbms-cs540)
 
-- [Parallel Programming (CS575)](https://github.com/bachsofttrick/parallel-cs575)
+- [Parallel Programming](https://github.com/bachsofttrick/parallel-cs575)
 
 ## [Todo](https://github.com/bachsofttrick/todo)
 
