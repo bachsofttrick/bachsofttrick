@@ -15,6 +15,10 @@ Test run with Naza Drone [1](https://youtu.be/x6uBbzRVm_o) [2](https://youtu.be/
 Engineered a custom drone for searching, identifying, and following a designated subject
 while transmitting live video feeds to any RTSP-compatible device.
 
+**OPEN SOURCE COLLABORATION**
+- [OregonFlora](https://oregonflora.org/)\
+Maintained and enhanced a research platform supporting thousands of daily users, researchers, and conservationists across Oregon.
+
 **GO APPS** 
 - [TV Guide API](https://github.com/bachsofttrick/tvguide-go)\
 A small backend server that gets my TV schedule. It uses API from tvguide.com as the basis.
