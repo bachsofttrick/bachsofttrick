@@ -27,6 +27,9 @@ A small backend server that gets my TV schedule. It uses API from tvguide.com as
 A small app to get Star Trek TNG schedule from Pluto TV.
 
 **NODEJS APPS**
+- [MySQL parseSlowQuery](https://github.com/bachsofttrick/mysql-parseSlowQuery)\
+A tool that reads mysql slow_query_log, sort queries by query time descending and outputs to JSON and CSV for easier view.
+
 - [mailworkday](https://github.com/bachsofttrick/mailworkday)\
 Script that send emails when you have to work on weekends.
 Built using NodeJS and Google Calendar API.
