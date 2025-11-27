@@ -46,5 +46,5 @@ A Reverse Proxy built using ExpressJS and express-http-proxy for debugging micro
 
 - [Parallel Programming (C++)](https://github.com/bachsofttrick/parallel-cs575)
 
-## [Todo](https://github.com/bachsofttrick/todo)
+## [Other](https://github.com/bachsofttrick/todo)
 
