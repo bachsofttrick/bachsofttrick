@@ -58,7 +58,7 @@ serving over 150,000 users with 1.5 million clicks annually.
 </details>
 
 <details>
-  <summary><a href="https://github.com/bachsofttrick/todo"><strong>Other Projects</strong></a></summary>
+  <summary><a href="https://github.com/bachsofttrick/todo"><strong>OTHER PROJECTS</strong></a></summary>
   <br/>
 
 | Name | Technology |
