@@ -20,32 +20,42 @@ to RTSP-compatible devices.
 Improved reliability and performance of a statewide research system
 serving over 150,000 users with 1.5 million clicks annually.
 
-**GO APPS** 
-- [TV Guide API](https://github.com/bachsofttrick/tvguide-go)\
-A small backend server that gets my TV schedule. It uses API from tvguide.com as the basis.
+<details>
+  <summary><strong>GO APPS</strong></summary>
 
-- [Get schedule for Star Trek TNG on Pluto TV](https://github.com/bachsofttrick/tng-schedule)\
-A small app to get Star Trek TNG schedule from Pluto TV.
+  - [TV Guide API](https://github.com/bachsofttrick/tvguide-go)\
+  A small backend server that gets my TV schedule. It uses API from tvguide.com as the basis.
+  
+  - [Get schedule for Star Trek TNG on Pluto TV](https://github.com/bachsofttrick/tng-schedule)\
+  A small app to get Star Trek TNG schedule from Pluto TV.
+</details>
 
-**NODEJS APPS**
-- [MySQL parseSlowQuery](https://github.com/bachsofttrick/mysql-parseSlowQuery)\
-A tool that reads mysql slow_query_log, sort queries by query time descending and outputs to JSON and CSV for easier view.
+<details>
+  <summary><strong>NODEJS APPS</strong></summary>
 
-- [mailworkday](https://github.com/bachsofttrick/mailworkday)\
-Script that send emails when you have to work on weekends.
-Built using NodeJS and Google Calendar API.
+  - [MySQL parseSlowQuery](https://github.com/bachsofttrick/mysql-parseSlowQuery)\
+  A tool that reads mysql slow_query_log, sort queries by query time descending and outputs to JSON and CSV for easier view.
+  
+  - [mailworkday](https://github.com/bachsofttrick/mailworkday)\
+  Script that send emails when you have to work on weekends.
+  Built using NodeJS and Google Calendar API.
 
-- [http-proxy](https://github.com/bachsofttrick/http-proxy)\
-A Reverse Proxy built using ExpressJS and express-http-proxy for debugging microservice projects. Nodemon is for developing this app with hot reload.
+  - [http-proxy](https://github.com/bachsofttrick/http-proxy)\
+  A Reverse Proxy built using ExpressJS and express-http-proxy for debugging microservice projects. Nodemon is for developing this app with hot reload.
+</details>
 
-**COURSE PROJECTS**
-- [Assembly Language](https://github.com/bachsofttrick/comp-arch-cs271)
 
-- [Algorithm Analysis (Python)](https://github.com/bachsofttrick/algolysis-cs325)
-
-- [Database Management System (C++)](https://github.com/bachsofttrick/dbms-cs540)
-
-- [Parallel Programming (C++)](https://github.com/bachsofttrick/parallel-cs575)
+<details>
+  <summary><strong>COURSE PROJECTS</strong></summary>
+  
+  - [Assembly Language](https://github.com/bachsofttrick/comp-arch-cs271)
+  
+  - [Algorithm Analysis (Python)](https://github.com/bachsofttrick/algolysis-cs325)
+  
+  - [Database Management System (C++)](https://github.com/bachsofttrick/dbms-cs540)
+  
+  - [Parallel Programming (C++)](https://github.com/bachsofttrick/parallel-cs575)
+</details>
 
 ## [Other Projects](https://github.com/bachsofttrick/todo)
 
