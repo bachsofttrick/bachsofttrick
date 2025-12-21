@@ -57,5 +57,13 @@ serving over 150,000 users with 1.5 million clicks annually.
   - [Parallel Programming (C++)](https://github.com/bachsofttrick/parallel-cs575)
 </details>
 
-## [Other Projects](https://github.com/bachsofttrick/todo)
+<details>
+  <summary><a href="https://github.com/bachsofttrick/todo"><strong>Other Projects</strong></a></summary>
+  <br/>
 
+| Name | Technology |
+|-|-|
+| [Disable Turbo Boost in Intel CPU](https://github.com/bachsofttrick/intel-cpu-turbo-off-on-boot) | Linux Bash, Rules |
+| [Disable junks in Windows 11](https://github.com/bachsofttrick/win11-remove-junk-reg) | Windows Registry |
+| [Binary2text](https://github.com/bachsofttrick/binary2text) | Python |
+</details>
