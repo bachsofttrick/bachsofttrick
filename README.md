@@ -47,9 +47,6 @@ serving over 150,000 users with 1.5 million clicks annually.
 <details>
   <summary><strong>PYTHON APPS</strong></summary>
 
-  - [Fast Team Task](https://github.com/bachsofttrick/fast-team-task)\
-  Team Tasks API with FastAPI and GraphQL
-
   - [Binary2text](https://github.com/bachsofttrick/binary2text)\
   A short script to convert binary to ASCII/UTF-8 string and vice versa
 </details>
@@ -72,6 +69,7 @@ serving over 150,000 users with 1.5 million clicks annually.
 
 | Name | Technology |
 |-|-|
+| [Fast Team Task](https://github.com/bachsofttrick/fast-team-task) | FastAPI, GraphQL |
 | [Disable Turbo Boost in Intel CPU](https://github.com/bachsofttrick/intel-cpu-turbo-off-on-boot) | Linux Bash, Rules |
 | [Disable junks in Windows 11](https://github.com/bachsofttrick/win11-remove-junk-reg) | Windows Registry |
 </details>
