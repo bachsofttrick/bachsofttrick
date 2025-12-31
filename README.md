@@ -63,7 +63,8 @@ serving over 150,000 users with 1.5 million clicks annually.
 
 | Name | Technology |
 |-|-|
+| [Fast Team Task](https://github.com/bachsofttrick/fast-team-task) | FastAPI, GraphQL |
+| [Binary2text](https://github.com/bachsofttrick/binary2text) | Python |
 | [Disable Turbo Boost in Intel CPU](https://github.com/bachsofttrick/intel-cpu-turbo-off-on-boot) | Linux Bash, Rules |
 | [Disable junks in Windows 11](https://github.com/bachsofttrick/win11-remove-junk-reg) | Windows Registry |
-| [Binary2text](https://github.com/bachsofttrick/binary2text) | Python |
 </details>
