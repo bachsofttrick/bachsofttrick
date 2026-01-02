@@ -48,7 +48,7 @@ serving over 150,000 users with 1.5 million clicks annually.
   <summary><strong>PYTHON APPS</strong></summary>
 
   - [Binary2text](https://github.com/bachsofttrick/binary2text)\
-  A short script to convert binary to ASCII/UTF-8 string and vice versa
+  A short script to convert binary to ASCII/UTF-8 string and vice versa.
 </details>
 
 <details>
