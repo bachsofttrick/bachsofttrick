@@ -53,7 +53,7 @@ serving over 150,000 users with 1.5 million clicks annually.
   <summary><strong>PYTHON APPS</strong></summary>
 
   - [11labs Audio Transcriber](https://github.com/bachsofttrick/transcribe-with-11labs)\
-  A script I wrote to help me transcribe audio, since API free use is longer than UI use from 11labs.
+  A script I wrote to help me transcribe audio from 11labs, since API free use is longer than UI use.
   
   - [Binary2text](https://github.com/bachsofttrick/binary2text)\
   A short script to convert binary to ASCII/UTF-8 string and vice versa.
