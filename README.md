@@ -4,6 +4,8 @@
 - **[Homepage](https://github.com/bachsofttrick/bachsofttrick.github.io)**
 
 **AI PROJECTS**
+- **[Papersy](https://github.com/lesteuai/papersy)**\
+**Built** an **agentic AI** research assistant with **RAG, OpenAI, LangChain, pgvector** end-to-end to surface relevant insights from academic papers and interact with them through conversation.
 
 - **[Object Detection and Monitoring through UAV](https://github.com/bachsofttrick/dronectrl-with-tracking)**\
 [Paper](https://github.com/bachsofttrick/dronectrl-with-tracking/blob/master/paper.pdf) | 
@@ -11,7 +13,7 @@
 Test run with Naza Drone [1](https://youtu.be/x6uBbzRVm_o) [2](https://youtu.be/1CBIk2xY5qs) |
 [Test run with DM107s](https://youtu.be/x6QGjoSk1t8)\
 Engineered a custom drone capable of identifying, following targets and transmitting live video
-to RTSP-compatible devices.
+with **OpenCV, Tensorflow**.
 
 - **[OCR AI Web](https://github.com/bachsofttrick/ocr-web/)**\
 Designed an AI document scanner that utilize LightOnOCR model to transcribe image to text.
