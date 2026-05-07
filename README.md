@@ -4,7 +4,7 @@
 - **[Homepage](https://github.com/bachsofttrick/bachsofttrick.github.io)**
 
 **AI PROJECTS**
-- **[AuTuber](https://github.com/bachsofttrick/AuTuber)**
+- **[AuTuber](https://github.com/bachsofttrick/AuTuber)**\
 **Built** an **agentic AI** stage hand for streamers with **OpenAI, React, Nemotron 3, OBS** end-to-end, controlling your streaming tools to match the moment.
 
 - **[Papersy](https://github.com/lesteuai/papersy)**\
