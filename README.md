@@ -8,7 +8,7 @@
 **Built** an **agentic AI** stage hand for streamers with **OpenAI, React, Nemotron 3, OBS** end-to-end to control your streaming tools and match the moment.
 
 - **[Papersy](https://github.com/lesteuai/papersy)**\
-**Built** an **agentic AI** research assistant with **RAG, OpenAI, LangChain, pgvector** end-to-end to surface relevant insights from academic papers and interact with them through conversation.
+**Built** an **agentic AI** research assistant with **SvelteKit, RAG, OpenAI, LangChain, pgvector** end-to-end to surface relevant insights from academic papers and interact with them through conversation.
 
 - **[Object Detection and Monitoring through UAV](https://github.com/bachsofttrick/dronectrl-with-tracking)**\
 [Paper](https://github.com/bachsofttrick/dronectrl-with-tracking/blob/master/paper.pdf) | 
