@@ -5,7 +5,7 @@
 
 **AI PROJECTS**
 - **[JobbedIn](https://github.com/bachsofttrick/jobbedin)**\
-An **agentic AI** job hunting partner with **LangGraph, Next.js, Tailwind, Postgres**  to study future employers, draft personalize cover letters and LinkedIn messages to hiring personnel.
+A **multi-agent** job hunting **operating system** with **LangGraph, Next.js, Tailwind, Postgres**  to study future employers, draft personalize cover letters and LinkedIn messages to hiring personnel.
 
 - **[AuTuber](https://github.com/bachsofttrick/AuTuber)**\
 **Built** an **agentic AI** stage hand for streamers with **OpenAI, React, Nemotron 3, OBS** end-to-end to control your streaming tools and match the moment.
