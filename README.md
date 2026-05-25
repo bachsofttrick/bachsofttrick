@@ -21,13 +21,6 @@ Test run with Naza Drone [1](https://youtu.be/x6uBbzRVm_o) [2](https://youtu.be/
 **Engineered** a custom drone capable of identifying, following targets and transmitting live video
 with **Python, OpenCV, TensorFlow**.
 
-- **[OCR AI Web](https://github.com/bachsofttrick/ocr-web/)**\
-**Designed** an AI document scanner that utilize LightOnOCR model to transcribe image to text.
-
-- **[Reversi: Minimax vs Monte Carlo](https://github.com/bachsofttrick/reversi-ai531/)**\
-[Paper](https://drive.google.com/file/d/1OObj9nI0WlzqSMS5g5tBLYP51jCcF6yJ/view?usp=sharing)\
-**Designed** a benchmark of two AI algorithms against several games of Reversi, using **multithreading** to improve efficiency.
-
 **OPEN SOURCE COLLABORATION**
 - [OregonFlora](https://oregonflora.org/)\
 **Improved** reliability and performance of a statewide research system
