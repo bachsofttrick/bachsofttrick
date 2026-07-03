@@ -5,13 +5,13 @@
 
 **AI PROJECTS**
 - **[JobbedIn](https://github.com/lesteuai/jobbedin)**\
-A **multi-agent** job hunting **operating system** with **LangGraph, Next.js, Tailwind, Postgres**  to study future employers, draft personalized letters and LinkedIn messages to hiring personnel.
+A **multi-agent** job hunting **operating system** with **LangGraph, , OpenAI SDK, Next.js, Postgres (Supabase, Neon), Vercel**  to study future employers, draft personalized letters and LinkedIn messages to hiring personnel.
 
 - **[Papersy](https://github.com/lesteuai/papersy)**\
-**Built** an **agentic AI** research assistant with **SvelteKit, RAG, OpenAI, LangChain, pgvector** end-to-end to surface relevant insights from academic papers and interact with them through conversation.
+**Built** an **agentic AI** research assistant with **SvelteKit, RAG, OpenAI SDK, LangChain, Postgres (Supabase, Neon)** end-to-end to surface relevant insights from academic papers and interact with them through conversation.
 
 - **[AuTuber](https://github.com/bachsofttrick/AuTuber)**\
-**Built** an **agentic AI** stage hand for streamers with **OpenAI, React, Nemotron 3, OBS** end-to-end to control your streaming tools and match the moment.
+**Built** an **agentic AI** stage hand for streamers with **OpenAI SDK, React, Nemotron 3, OBS** end-to-end to control your streaming tools and match the moment.
 
 - **[Object Detection and Monitoring through UAV](https://github.com/bachsofttrick/dronectrl-with-tracking)**\
 [Paper](https://github.com/bachsofttrick/dronectrl-with-tracking/blob/master/paper.pdf) | 
