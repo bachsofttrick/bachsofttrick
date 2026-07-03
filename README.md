@@ -5,7 +5,7 @@
 
 **AI PROJECTS**
 - **[JobbedIn](https://github.com/lesteuai/jobbedin)**\
-A **multi-agent** job hunting **operating system** with **LangGraph, , OpenAI SDK, Next.js, Postgres (Supabase, Neon), Vercel**  to study future employers, draft personalized letters and LinkedIn messages to hiring personnel.
+A **multi-agent** job hunting **operating system** with **LangGraph, OpenAI SDK, Next.js, Postgres (Supabase, Neon), Vercel**  to study future employers, draft personalized letters and LinkedIn messages to hiring personnel.
 
 - **[Papersy](https://github.com/lesteuai/papersy)**\
 **Built** an **agentic AI** research assistant with **SvelteKit, RAG, OpenAI SDK, LangChain, Postgres (Supabase, Neon)** end-to-end to surface relevant insights from academic papers and interact with them through conversation.
